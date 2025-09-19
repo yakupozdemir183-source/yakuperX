@@ -1,0 +1,18 @@
+
+
+Bu proje, Java ile çalışan Minecraft launcher’ıdır.
+
+## Kurulum
+
+1. Java 17 veya üzerini yükleyin.  
+2. Projeyi klonlayın.  
+3. `java.exe` dosyasını kullanarak oyunu çalıştırın.
+
+## Kullanım
+
+Projede Minecraft ve Java dosyaları bulunmaktadır.  
+Detaylı bilgi için dokümanları inceleyin.
+
+---
+
+İletişim: yakupozdemir183@example.com
